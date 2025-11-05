@@ -1,0 +1,48 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: "Gluten", cursive;
+
+}
+header{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: blueviolet;
+    background-color: lavender;
+}
+
+nav{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+nav a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+nav a:hover{
+    background-color: navy;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
