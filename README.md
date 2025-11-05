@@ -1,0 +1,1 @@
+This repository is an example of the site structure for some flexbox labs.  It does not contain the completed labs, but it does show some examples of commit messages and some flexbox styling for the home page
